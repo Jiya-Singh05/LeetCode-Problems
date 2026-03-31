@@ -6,7 +6,7 @@ Do not modify the linked list.*/
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- *     int val;
+ *    int val;
  *     struct ListNode *next;
  * };
  */
