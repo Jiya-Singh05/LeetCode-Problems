@@ -1,6 +1,6 @@
 int divide(int dividend, int divisor) {
     int quo;
-    if(divisor==0)
+    if(divisor== 0)
     return 0;
     else
     {
