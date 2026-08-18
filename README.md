@@ -11,9 +11,7 @@ const jiya = {
 ```
 
 ## Badge Galaxy
-
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -31,9 +29,16 @@ const jiya = {
 <br/>
 <sub>100 days — no days off in the galaxy</sub>
 </td>
+<td width="60"></td>
+<td align="center">
+<img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="100"/>
+<br/>
+<b>🚀 200 Days Badge 2026</b>
+<br/>
+<sub>200 days — the grind never stops</sub>
+</td>
 </tr>
 </table>
-
 </div>
 
 
