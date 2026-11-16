@@ -1,4 +1,5 @@
 # Given an array of string words, return all strings in words that are a substring of another word. You can return the answer in any order.
+
 class Solution:
     def stringMatching(self, words: list[str]) -> list[str]:
         a=[]
